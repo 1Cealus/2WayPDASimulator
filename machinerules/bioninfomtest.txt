@@ -1,0 +1,26 @@
+A B C D E
+a c t g X
+a c t g
+\
+A a $ $ A a $
+A c $ $ A c $
+A t $ $ A t $ 
+A g $ $ A g $
+A X $ $ B $ $
+B $ g $ B $ g
+B $ a $ B $ a
+B $ c $ B $ c
+B $ t $ B $ t
+B $ Z $ C Z $
+C a $ a C a $
+C c $ c C c $
+C t $ t C t $
+C g $ g C g $
+C X $ $ D $ $
+D $ $ Z B $ Z
+D S $ Z E $ $
+\
+A
+Z
+Z
+E

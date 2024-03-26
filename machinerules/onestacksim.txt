@@ -1,0 +1,13 @@
+A B C
+a b
+x
+\
+A a $ $ A x $
+A b x $ B $ $
+B b x $ B $ $
+B $ Z $ C $ $
+\
+A
+Z
+
+C

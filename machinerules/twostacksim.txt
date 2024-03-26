@@ -1,0 +1,15 @@
+A B C D
+a b c
+a b
+\
+A a $ $ A a $
+A b a $ B $ b
+B b a $ B $ b
+B c Z b C $ $
+C c $ b C $ $
+C $ $ Z D $ $
+\
+A
+Z
+Z
+D
